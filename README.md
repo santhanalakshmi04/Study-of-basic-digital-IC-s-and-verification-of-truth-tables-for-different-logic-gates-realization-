@@ -63,10 +63,15 @@ Program to verify the truth table in quartus for the basic logic gates using Ver
 Developed by: 
 RegisterNumber:  
 */
-Logic symbol & Truthtable
-RTL realization
 Output:
-RTL
+Logic symbol & Truthtable
+![Screenshot (40)](https://user-images.githubusercontent.com/119475762/214540450-49e9bba4-9534-4d55-89cd-348ec040f6ce.png)
+
+RTL realization
+![Screenshot (41)](https://user-images.githubusercontent.com/119475762/214540894-54ade0f3-feeb-478f-9b06-e84c8db2d7d1.png)
+
+Timing Diagram
+![212738217-20b14708-d6eb-4e57-97c9-c17f06e46813](https://user-images.githubusercontent.com/119475762/214541086-34052377-eda6-4ef3-ad5c-4ba932af3421.png)
 
 Result:
 Thus the different digital IC’s are studied and the truth table for different logic gates are verified.
